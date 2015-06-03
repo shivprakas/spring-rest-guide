@@ -1,0 +1,1 @@
+This contains the sample applications for the Spring 3 REST tutorials
